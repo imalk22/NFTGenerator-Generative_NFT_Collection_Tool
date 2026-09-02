@@ -1,0 +1,8 @@
+{
+  "name": "My Collection",
+  "description": "A collection of unique generated NFTs.",
+  "symbol": "MYNFT",
+  "layers_dir": "layers",
+  "output_dir": "output",
+  "start_edition": 1
+}
